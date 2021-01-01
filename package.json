@@ -1,0 +1,15 @@
+{
+  "name": "auto-route-nodejs",
+  "version": "1.0.0",
+  "description": "Auto route for NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "author": "ginkokuryuu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
